@@ -43,3 +43,6 @@ Para isso, temos a dependência de desenvolvimento já instalada (json-server), 
 
 - [Usando GET e POST com fetchAPI](https://www.youtube.com/watch?v=CXLsvT9mSo8)
 - [Stackblitz html-dialog](https://stackblitz.com/edit/vitejs-vite-m8vzl4)
+
+![Captura de Tela 2022-05-02 às 08 31 33](https://user-images.githubusercontent.com/40405334/166227086-40c463b5-5807-4dc4-9b73-2c85c037977a.png)
+
